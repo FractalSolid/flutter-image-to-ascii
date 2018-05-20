@@ -59,7 +59,7 @@ class _InputPageState extends State<InputPage> {
 
     for (int i = 0; i < image.height; i++) {
       for (int j = 0; j < image.width; j++) {
-        Color pixelColor = new Color(image(j, i));
+//        Color pixelColor = new Color(image(j, i));
       }
     }
   }
